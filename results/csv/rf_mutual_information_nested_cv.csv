@@ -1,0 +1,6 @@
+fold,MAE,RMSE,R2,inner_validation_MAE,number_selected_features,best_parameters
+1,4.414828679716181,9.11113051274968,0.892955093829704,3.7982238461993134,100,"{""model__max_depth"": 12, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 500, ""selector__k"": 100}"
+2,3.3479935763251056,6.128047804479578,0.9453886109145547,4.281105731524027,25,"{""model__max_depth"": null, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 200, ""selector__k"": 25}"
+3,3.7061526393462367,6.328677020024621,0.9341140978890359,3.8653943365815535,25,"{""model__max_depth"": null, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 500, ""selector__k"": 25}"
+4,3.3205655472618263,8.019632391904626,0.9240902835549277,4.198724261179782,100,"{""model__max_depth"": null, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 500, ""selector__k"": 100}"
+5,5.52296840762377,19.295652028189952,0.6872958066722371,3.804774698319229,100,"{""model__max_depth"": null, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 500, ""selector__k"": 100}"

@@ -1,0 +1,6 @@
+{
+  "model__learning_rate": 0.03,
+  "model__max_depth": 3,
+  "model__n_estimators": 300,
+  "selector__max_features": 100
+}

@@ -1,0 +1,6 @@
+fold,MAE,RMSE,R2,inner_validation_MAE,number_selected_features,best_parameters
+1,4.79715338986881,10.725070337363448,0.8516724687423989,3.6019993543472806,25,"{""model__learning_rate"": 0.1, ""model__max_depth"": 3, ""model__n_estimators"": 300, ""selector__max_features"": 25}"
+2,3.1120333758031387,6.737234230033866,0.9339911407771748,4.287467474621774,25,"{""model__learning_rate"": 0.1, ""model__max_depth"": 3, ""model__n_estimators"": 300, ""selector__max_features"": 25}"
+3,3.5622426040658177,5.523565532771958,0.9498113338215897,4.262285786694385,25,"{""model__learning_rate"": 0.03, ""model__max_depth"": 3, ""model__n_estimators"": 300, ""selector__max_features"": 25}"
+4,3.4263353623985697,7.97454242164692,0.9249414808479617,4.078808754031044,100,"{""model__learning_rate"": 0.1, ""model__max_depth"": 2, ""model__n_estimators"": 300, ""selector__max_features"": 100}"
+5,5.4442574990512655,19.31723409891211,0.6865958999519046,3.4000561717412525,100,"{""model__learning_rate"": 0.1, ""model__max_depth"": 3, ""model__n_estimators"": 300, ""selector__max_features"": 100}"

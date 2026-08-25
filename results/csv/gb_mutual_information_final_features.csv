@@ -1,0 +1,308 @@
+feature,importance
+density,0.7225378136459925
+vpa,0.08499857111163092
+ChemEnv_min_C:12,0.05177699731717006
+packing fraction,0.04899679993542671
+ChemEnv_mean_DDPN:8,0.014150556936406478
+ChemEnv_mean_C:12,0.007399673214867345
+ChemEnv_std_O:6,0.007314274084852174
+ChemEnv_mean_BO_3:8,0.0071101515534061485
+ChemEnv_max_O:6,0.005683139882663865
+MagpieData minimum MendeleevNumber,0.005532123019175107
+ChemEnv_max_C:12,0.004297256313009966
+ChemEnv_mean_S:5,0.0033980162734254353
+ChemEnv_std_DDPN:8,0.003163489823193793
+ChemEnv_mean_I:12,0.0031541199606030267
+ChemEnv_max_AC:12,0.003125403601930962
+ChemEnv_max_TY:3,0.0024662334381586543
+ChemEnv_std_MI:10,0.002262813130461198
+ChemEnv_mean_AC:12,0.0018608579771054376
+ChemEnv_max_T:5,0.0016051943357390636
+ChemEnv_max_MI:10,0.0014847426293974487
+ChemEnv_max_S:5,0.0014290151234439526
+spacegroup_num,0.0011486944446813898
+ChemEnv_std_ST:7,0.000906780851480242
+ChemEnv_max_TT:12,0.0007482582843743924
+ChemEnv_mean_TY:3,0.000584565040322511
+n_symmetry_ops,0.0005736505182062894
+ChemEnv_std_I:12,0.0005695637632045957
+ChemEnv_std_DI:11,0.0005490244517747343
+ChemEnv_mean_TL:3,0.00048134905197207557
+ChemEnv_max_C:8,0.00045519106219690347
+MagpieData mean NdValence,0.0004483882283097623
+ChemEnv_mean_BS_1:10,0.00041409686028459196
+ChemEnv_max_HB:8,0.0003418954537477963
+ChemEnv_std_TT:12,0.00033826895683728017
+ChemEnv_max_SS:4,0.00032003360119266987
+ChemEnv_min_AC:12,0.00030547060105525647
+7-norm,0.0002931308795249232
+ChemEnv_mean_O:6,0.00028078223385355293
+ChemEnv_max_BS_1:10,0.000254511743959064
+ChemEnv_mean_S:1,0.00024374472277059194
+ChemEnv_max_T:6,0.00024279985850550546
+ChemEnv_mean_L:2,0.00023330463638504214
+ChemEnv_std_AC:12,0.000228506826902762
+ChemEnv_mean_C:8,0.0002221595838853046
+MagpieData mean NdUnfilled,0.00021768504065719984
+ChemEnv_std_C:12,0.00021207411506762936
+ChemEnv_std_S:5,0.00020989342956400015
+ChemEnv_mean_S:4,0.0002044320005644803
+10-norm,0.00020291026760431915
+ChemEnv_std_BO_1:8,0.0001953582529017795
+ChemEnv_max_S:4,0.00018724666065941678
+ChemEnv_mean_SY:4,0.00018105116606010387
+ChemEnv_max_I:12,0.0001782573055512841
+ChemEnv_min_BO_1:8,0.00017383097470114885
+ChemEnv_std_L:2,0.00016998776585964442
+ChemEnv_std_HB:8,0.0001697114046365914
+ChemEnv_min_S:1,0.0001645394978967622
+ChemEnv_std_BS_1:10,0.00016396112112921775
+ChemEnv_std_TT_3:9,0.0001565054021513306
+ChemEnv_std_S:4,0.00014062783534884377
+MagpieData mean MendeleevNumber,0.00013703693697681967
+ChemEnv_min_I:12,0.00013572936282275585
+ChemEnv_mean_H:11,0.00013276288240406906
+ChemEnv_max_SA:8,0.00013147265577712197
+ChemEnv_min_SY:4,0.00013073398500748298
+ChemEnv_min_C:8,0.00012842538267963152
+ChemEnv_max_TL:3,0.00012674350548133324
+ChemEnv_max_T:4,0.00011608805759215746
+ChemEnv_mean_T:4,0.00011277982816399856
+ChemEnv_std_T:4,0.00010988142665228086
+ChemEnv_std_SY:4,9.882503587836013e-05
+ChemEnv_std_T:5,9.406258269483674e-05
+ChemEnv_std_A:2,8.948604815255988e-05
+ChemEnv_std_C:8,8.592868657472133e-05
+ChemEnv_max_PA:10,8.361486268416403e-05
+ChemEnv_max_BS_2:10,7.521824947328036e-05
+MagpieData mean NfValence,6.878993576069945e-05
+Pt,5.9843504184792274e-05
+ChemEnv_min_BS_1:10,5.760290333925786e-05
+ChemEnv_std_TI:9,4.885774962264322e-05
+ChemEnv_std_BS_2:10,4.162903830131631e-05
+ChemEnv_mean_T:6,4.0490517046075415e-05
+ChemEnv_max_BO_1:8,3.907027653428658e-05
+ChemEnv_min_PA:10,3.810356877013349e-05
+ChemEnv_mean_SMA:9,3.797275291568761e-05
+ChemEnv_std_SS:9,3.503508037291372e-05
+ChemEnv_max_TT_3:9,3.4027411776678854e-05
+ChemEnv_std_HP:12,3.3794688185203216e-05
+ChemEnv_max_SY:4,3.292593560100322e-05
+ChemEnv_max_A:2,3.187222527193021e-05
+ChemEnv_mean_MI:10,3.1322622553457275e-05
+ChemEnv_max_DI:11,2.628922774862003e-05
+ChemEnv_mean_SS:4,2.5478088559262234e-05
+ChemEnv_std_S:1,2.522212888145328e-05
+ChemEnv_mean_BS_2:10,2.4894777241318807e-05
+ChemEnv_mean_SS:9,2.3681252000961676e-05
+Cu,2.2750400262215767e-05
+ChemEnv_min_L:2,2.149438873195058e-05
+frac f valence electrons,2.126298712895248e-05
+ChemEnv_std_TS:3,2.0905970937439722e-05
+ChemEnv_std_SS:4,2.085511605670633e-05
+ChemEnv_max_TO_2:9,2.0203278758302336e-05
+ChemEnv_std_TO_2:9,2.0154221609131372e-05
+frac s valence electrons,1.797618605720747e-05
+ChemEnv_std_PBP:12,1.7433702853242794e-05
+MagpieData avg_dev MendeleevNumber,1.7022338674098322e-05
+ChemEnv_max_PB:7,1.6651090354914736e-05
+2-norm,1.614574344574506e-05
+MagpieData mean NValence,1.5289634735215484e-05
+MagpieData mean GSvolume_pa,1.5146789758512543e-05
+avg f valence electrons,1.4994918740985539e-05
+ChemEnv_max_SS:9,1.470046492405557e-05
+ChemEnv_max_SMA:9,1.4446568901637633e-05
+ChemEnv_max_L:2,1.4119270530415965e-05
+ChemEnv_std_TL:3,1.3824268731356104e-05
+ChemEnv_max_TS:3,1.330681867885628e-05
+ChemEnv_mean_TS:3,1.282074128276461e-05
+ChemEnv_std_PA:10,1.2416297225961409e-05
+MagpieData avg_dev Column,1.0489803124388649e-05
+ChemEnv_std_T:6,9.87676100947563e-06
+MagpieData mean NUnfilled,9.240554180057648e-06
+ChemEnv_max_TI:9,8.979445425207935e-06
+ChemEnv_mean_TT_2:9,8.93783767325801e-06
+MagpieData avg_dev Row,8.603139960371266e-06
+ChemEnv_max_TC:9,8.487200392662664e-06
+ChemEnv_mean_TC:9,7.953630238813596e-06
+ChemEnv_mean_TT:12,7.623393998535788e-06
+ChemEnv_std_TY:3,7.383693018559132e-06
+ChemEnv_max_DD:8,7.163913790863812e-06
+crystal_system_int,6.972760233912607e-06
+ChemEnv_mean_BO_2:8,6.5136030846628265e-06
+ChemEnv_std_TO_3:9,5.842968031144866e-06
+ChemEnv_mean_BO_1:8,5.768799863116469e-06
+MagpieData range NfValence,5.639057795196144e-06
+MagpieData avg_dev NdUnfilled,5.631239487221477e-06
+3-norm,4.972108548710828e-06
+ChemEnv_max_SBSA:10,4.885561305797892e-06
+MagpieData mean MeltingT,4.874795551790346e-06
+ChemEnv_mean_PB:7,4.84228922001198e-06
+ChemEnv_max_FO:7,4.797423452593096e-06
+MagpieData avg_dev CovalentRadius,4.76917798322731e-06
+ChemEnv_mean_TI:9,4.74033710106739e-06
+ChemEnv_mean_HB:8,4.738348003448498e-06
+ChemEnv_mean_A:2,4.691165002358025e-06
+MagpieData avg_dev Electronegativity,4.686401665748853e-06
+ChemEnv_mean_T:5,4.569087089806056e-06
+ChemEnv_std_TC:9,4.3378379490100624e-06
+ChemEnv_mean_PA:10,3.5172926705315204e-06
+ChemEnv_std_PP:5,2.032201887234254e-06
+is_centrosymmetric,1.86300899139219e-06
+ChemEnv_mean_SBT:8,1.831944887739535e-06
+ChemEnv_max_BO_2:8,1.7342377464650797e-06
+ChemEnv_mean_TT_3:9,1.6671987934074858e-06
+avg d valence electrons,1.5551602661504346e-06
+MagpieData mean Electronegativity,1.459845672044013e-06
+MagpieData avg_dev NValence,1.389887799690188e-06
+ChemEnv_std_TO_1:9,1.3781771773189957e-06
+ChemEnv_mean_PP:5,1.3660587771105473e-06
+5-norm,1.3519452299590052e-06
+MagpieData minimum Number,1.1371881756663334e-06
+ChemEnv_max_ET:7,1.1332566466438421e-06
+MagpieData avg_dev AtomicWeight,1.1153207388644939e-06
+ChemEnv_max_H:11,9.966288610249348e-07
+ChemEnv_mean_PP:6,9.572093140628156e-07
+ChemEnv_mean_DI:11,9.001975909712549e-07
+ChemEnv_max_TBT:8,8.754144595384143e-07
+MagpieData mean Row,8.67342454482338e-07
+MagpieData mode NfValence,7.509713119936899e-07
+MagpieData mean Column,7.075487890217513e-07
+ChemEnv_std_PB:7,5.662727419455066e-07
+MagpieData mode Row,5.282923784217752e-07
+MagpieData mode NdUnfilled,4.158278500946841e-07
+ChemEnv_max_ST:7,2.9266989023870485e-07
+ChemEnv_mean_TO_2:9,2.748592048850665e-07
+ChemEnv_min_TY:3,1.3759572779872163e-07
+MagpieData avg_dev GSvolume_pa,4.441790398924533e-08
+MagpieData avg_dev NfValence,3.811597611621709e-08
+ChemEnv_max_PP:10,0.0
+MagpieData avg_dev Number,0.0
+ChemEnv_mean_TBT:8,0.0
+ChemEnv_mean_SA:8,0.0
+ChemEnv_mean_FO:7,0.0
+ChemEnv_mean_ET:7,0.0
+ChemEnv_mean_ST:7,0.0
+ChemEnv_mean_PCPA:11,0.0
+ChemEnv_mean_HA:12,0.0
+ChemEnv_mean_HP:12,0.0
+ChemEnv_mean_TBSA:10,0.0
+ChemEnv_mean_PBP:12,0.0
+ChemEnv_max_PBP:12,0.0
+ChemEnv_max_PCPA:11,0.0
+ChemEnv_mean_TO_1:9,0.0
+ChemEnv_mean_TO_3:9,0.0
+ChemEnv_mean_PP:10,0.0
+ChemEnv_mean_SBSA:10,0.0
+ChemEnv_max_TBSA:10,0.0
+ChemEnv_mean_TT_1:9,0.0
+0-norm,0.0
+MagpieData mode Number,0.0
+MagpieData maximum MendeleevNumber,0.0
+MagpieData range MendeleevNumber,0.0
+ChemEnv_max_TO_3:9,0.0
+MagpieData maximum Number,0.0
+MagpieData range Number,0.0
+MagpieData mean Number,0.0
+MagpieData maximum GSvolume_pa,0.0
+MagpieData mode GSvolume_pa,0.0
+frac d valence electrons,0.0
+MagpieData range NUnfilled,0.0
+MagpieData mode NUnfilled,0.0
+MagpieData minimum GSvolume_pa,0.0
+MagpieData range NValence,0.0
+MagpieData maximum NValence,0.0
+MagpieData minimum NValence,0.0
+ChemEnv_std_TT_1:9,0.0
+MagpieData maximum NdUnfilled,0.0
+MagpieData range NdUnfilled,0.0
+MagpieData minimum NUnfilled,0.0
+MagpieData minimum NdUnfilled,0.0
+ChemEnv_std_TT_2:9,0.0
+ChemEnv_std_SMA:9,0.0
+ChemEnv_std_PP:10,0.0
+ChemEnv_std_SBSA:10,0.0
+ChemEnv_std_TBSA:10,0.0
+ChemEnv_std_PCPA:11,0.0
+ChemEnv_std_H:11,0.0
+MagpieData mode NValence,0.0
+ChemEnv_std_HA:12,0.0
+ChemEnv_min_A:2,0.0
+ChemEnv_min_TL:3,0.0
+MagpieData range GSvolume_pa,0.0
+ChemEnv_std_SBT:8,0.0
+ChemEnv_std_ET:7,0.0
+ChemEnv_std_FO:7,0.0
+ChemEnv_std_SA:8,0.0
+ChemEnv_std_BO_2:8,0.0
+ChemEnv_std_DD:8,0.0
+ChemEnv_std_TBT:8,0.0
+ChemEnv_std_BO_3:8,0.0
+MagpieData avg_dev NUnfilled,0.0
+MagpieData maximum NUnfilled,0.0
+ChemEnv_std_PP:6,0.0
+ChemEnv_mean_DD:8,0.0
+ChemEnv_min_TT_2:9,0.0
+ChemEnv_min_BO_2:8,0.0
+ChemEnv_min_HB:8,0.0
+ChemEnv_min_FO:7,0.0
+ChemEnv_min_ST:7,0.0
+ChemEnv_min_PB:7,0.0
+ChemEnv_min_T:6,0.0
+ChemEnv_min_O:6,0.0
+ChemEnv_min_T:5,0.0
+ChemEnv_min_S:5,0.0
+ChemEnv_min_SS:4,0.0
+ChemEnv_min_S:4,0.0
+ChemEnv_min_T:4,0.0
+MagpieData minimum Electronegativity,0.0
+ChemEnv_min_TT_3:9,0.0
+ChemEnv_min_SS:9,0.0
+MagpieData maximum NfValence,0.0
+MagpieData minimum NfValence,0.0
+MagpieData mode NdValence,0.0
+ChemEnv_min_TO_2:9,0.0
+ChemEnv_min_H:11,0.0
+ChemEnv_max_S:1,0.0
+ChemEnv_min_BS_2:10,0.0
+ChemEnv_min_MI:10,0.0
+MagpieData mode Electronegativity,0.0
+MagpieData minimum NdValence,0.0
+MagpieData maximum NdValence,0.0
+MagpieData range NdValence,0.0
+MagpieData avg_dev NdValence,0.0
+MagpieData mode CovalentRadius,0.0
+MagpieData range Electronegativity,0.0
+MagpieData maximum Electronegativity,0.0
+MagpieData maximum CovalentRadius,0.0
+MagpieData minimum CovalentRadius,0.0
+MagpieData maximum Row,0.0
+MagpieData range Row,0.0
+MagpieData minimum Row,0.0
+MagpieData mode Column,0.0
+MagpieData maximum Column,0.0
+MagpieData range Column,0.0
+ChemEnv_max_PP:6,0.0
+ChemEnv_max_SBT:8,0.0
+MagpieData minimum AtomicWeight,0.0
+MagpieData mode MendeleevNumber,0.0
+MagpieData maximum AtomicWeight,0.0
+ChemEnv_max_PP:5,0.0
+MagpieData range CovalentRadius,0.0
+MagpieData mean CovalentRadius,0.0
+MagpieData mode AtomicWeight,0.0
+MagpieData mean AtomicWeight,0.0
+MagpieData range AtomicWeight,0.0
+MagpieData maximum MeltingT,0.0
+MagpieData range MeltingT,0.0
+MagpieData avg_dev MeltingT,0.0
+MagpieData mode MeltingT,0.0
+MagpieData minimum MeltingT,0.0
+MagpieData minimum Column,0.0
+ChemEnv_max_DDPN:8,0.0
+ChemEnv_max_BO_3:8,0.0
+ChemEnv_max_TT_1:9,0.0
+ChemEnv_max_TT_2:9,0.0
+ChemEnv_max_TO_1:9,0.0
+ChemEnv_max_HP:12,0.0
+ChemEnv_max_HA:12,0.0

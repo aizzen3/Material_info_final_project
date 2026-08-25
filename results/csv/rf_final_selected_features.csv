@@ -1,0 +1,51 @@
+feature,importance
+density,0.7653888024174744
+packing fraction,0.0943061996485489
+vpa,0.0857849204722509
+MagpieData mean Column,0.002105179060750235
+3-norm,0.002053221176514383
+Cu,0.0019324239830548619
+7-norm,0.001890559807827443
+MagpieData avg_dev NfValence,0.001708076237215105
+MagpieData mean GSvolume_pa,0.001637981094843757
+MagpieData mean MeltingT,0.0016133115424543558
+MagpieData avg_dev NUnfilled,0.0015771279316859562
+avg f valence electrons,0.0015082080035845587
+MagpieData avg_dev Column,0.001478492643064672
+MagpieData mean NdValence,0.0014214515958183237
+MagpieData mean Row,0.001390394447421797
+frac s valence electrons,0.00138916460872007
+MagpieData mean NdUnfilled,0.0013780332975681117
+MagpieData avg_dev MendeleevNumber,0.0013452410725461634
+Pt,0.0013311890069240232
+MagpieData avg_dev Number,0.0013225858559220939
+5-norm,0.0013190104690961283
+MagpieData avg_dev GSvolume_pa,0.0012888468712980478
+MagpieData avg_dev Electronegativity,0.0012613211634799656
+MagpieData mean CovalentRadius,0.001260614443254828
+MagpieData mean NUnfilled,0.0012421538135155361
+MagpieData mean NfValence,0.0012418770881139024
+MagpieData avg_dev MeltingT,0.0012089941391063247
+MagpieData mean MendeleevNumber,0.0012038600428296974
+frac d valence electrons,0.0011847773183524092
+MagpieData avg_dev NdUnfilled,0.001183230513784744
+MagpieData avg_dev NdValence,0.0011826378193415391
+frac f valence electrons,0.0011143008527034453
+MagpieData mean Number,0.0010898263645656976
+10-norm,0.001065257679784965
+MagpieData avg_dev Row,0.001055234459518437
+MagpieData avg_dev AtomicWeight,0.0009719465930717053
+MagpieData avg_dev NValence,0.0009594100905315614
+2-norm,0.000951212481363241
+MagpieData mean Electronegativity,0.0009023845546815031
+MagpieData avg_dev CovalentRadius,0.0008801967484163842
+avg d valence electrons,0.0008654523964423551
+MagpieData mean NValence,0.0008039696022635988
+MagpieData mode NfValence,0.0007009438217186526
+MagpieData mean AtomicWeight,0.0006216034452375804
+MagpieData mode CovalentRadius,0.0005807780547113067
+MagpieData mode NValence,0.0004040791635269665
+MagpieData mode Row,0.00027788799904605226
+MagpieData mode Number,0.0002475705926639376
+MagpieData mode NdUnfilled,0.00023773323834620224
+MagpieData mode GSvolume_pa,0.00013032427504315025

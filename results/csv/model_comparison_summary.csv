@@ -1,0 +1,5 @@
+configuration,MAE_mean,MAE_std,RMSE_mean,RMSE_std,R2_mean,R2_std
+GB + Model Selection,4.0684,1.0009,10.0555,5.5251,0.8694,0.1089
+GB + Mutual Information,4.4208,0.8241,10.8789,4.9175,0.8508,0.0971
+RF + Model Selection,4.2201,0.8765,10.0754,5.29,0.871,0.1047
+RF + Mutual Information,4.0625,0.928,9.7766,5.4622,0.8768,0.1077
